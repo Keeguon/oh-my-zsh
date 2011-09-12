@@ -1,2 +1,2 @@
 alias brews='brew list -1'
-export BREW_EDITOR='choc'
+export HOMEBREW_EDITOR='choc'
